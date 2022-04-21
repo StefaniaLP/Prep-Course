@@ -1,0 +1,8 @@
+h1{ color: darkgreen;}
+img{width: 400px;}
+#thirdDiv{ height: 500px; width: 500px; background-color: greenyellow; padding: 50px; 
+    border: 8px; border-color: black; border-style: double; margin-left: 400px; margin-top: 15px;}
+#spanId{font-size: 18px;margin: 50px;}
+/* Sumando algunos ejercicios de "credito adicional" */
+body{ background-image: linear-gradient(45deg, grey, white, green); position: relative ;justify-content: center;}
+div{text-align: center;}
